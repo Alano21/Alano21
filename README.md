@@ -45,12 +45,6 @@ I am a programming technical school student passionate about software developmen
   </a>
 </p>
 
-## 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alano21&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 🔭 **Currently learning:** new technologies and improving my programming skills.  
 
 Thanks for visiting my profile! 😊
