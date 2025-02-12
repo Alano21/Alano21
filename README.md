@@ -40,6 +40,9 @@ I am a programming technical school student passionate about software developmen
   <a href="https://www.mamp.info/en/" target="_blank">
     <img src="https://img.shields.io/badge/-MAMP-0277BD?style=flat-square&logo=mamp&logoColor=white" />
   </a>
+  <a href="https://www.qt.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Qt%20Creator-41C1C1?style=flat-square&logo=qt&logoColor=white" />
+  </a>
 </p>
 
 ## 📊 GitHub Stats:
