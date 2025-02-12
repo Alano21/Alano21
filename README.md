@@ -1,8 +1,8 @@
-# 💻 Welcome to my GitHub! 👋
+# 💻 Welcome to my GitHub! 👋  
 
-I am a programming technical school student passionate about software development.
+I am a programming technical school student passionate about software development.  
 
-## 🛠️ Technologies I know:
+## 🛠️ Technologies I know:  
 
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank">
@@ -28,7 +28,7 @@ I am a programming technical school student passionate about software developmen
   </a>
 </p>
 
-## 🛠️ Tools I use:
+## 🛠️ Tools I use:  
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -42,6 +42,12 @@ I am a programming technical school student passionate about software developmen
   </a>
 </p>
 
-🔭 **Currently learning:** new technologies and improving my programming skills.
+## 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alano21&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+🔭 **Currently learning:** new technologies and improving my programming skills.  
 
 Thanks for visiting my profile! 😊
